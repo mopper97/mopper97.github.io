@@ -11,9 +11,9 @@ title                    : "Mattia Opper"
 title_separator          : "-"
 name                     : &name "Mattia Opper"
 description              : &description "PhD Student University of Edinburgh"
-url                      : https://mopper.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mopper97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mopper97.github.io"
+repository               : "mopper97/mopper97.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
