@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Philosophy and German, UCL, 2020
+* M.Sc. in Speech and Language Processing, University of Edinburgh, 2021 
+* Ph.D in Machine Learning, University of Edinburgh, 2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023 - Ongoing: Research Scienticist @ Popoulos Analytics
+  * Building RAG Pipelines for domain specialisation 
+  * Adapting Open Source LLMs
+  * Cross-Lingual Transfer 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022 - Ongoing: Machine Learning Specialist @ Edina 
+  * Document Classification
+  * NER and information extraction
+  * Building RAG interfaces for DOCQA
+
+* Summer 2019 - Jan 2020: Computational Linguistics Dev @ LanguageTool:
+  * Building rule based grammar checking pipelines
+  * ML based code switching identification 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Java
+* Pytorch
+  * DGL (for graph ML)
+  * Geoopt (for using non-Euclidean ML models)
+* HuggingFace
+* Langchain
 
 Publications
 ======
@@ -42,18 +47,5 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
