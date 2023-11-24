@@ -7,7 +7,6 @@ date: 2023
 venue: 'CoNLL 2023 Shared Task: BabyLM Challenge'
 paperurl: 'https://arxiv.org/pdf/2311.00128.pdf'
 ---
-
 We take a look at whether a developmentally plausible curriculum is beneficial for pre-training
 
 
