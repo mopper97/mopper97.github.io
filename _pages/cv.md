@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.A. in Philosophy and German, UCL, 2020
-* M.Sc. in Speech and Language Processing, University of Edinburgh, 2021 
 * Ph.D in Machine Learning, University of Edinburgh, 2026 (expected)
+* M.Sc. in Speech and Language Processing, University of Edinburgh, 2021
+* B.A. in Philosophy and German, UCL, 2020
 
 Work experience
 ======
